@@ -20,8 +20,8 @@ export default function Navbar() {
           <a>Coin</a>
         </Link>
 
-        <Link href="/자기소개">
-          <a>양유나</a>
+        <Link href="/contact">
+          <a>Contact</a>
         </Link>
       </div>
     </div>
